@@ -12,4 +12,5 @@ add to stage
 
 remove the commit on branch master
 
-do something on branch dev
+<<<<<<< HEAD
+do something on branch dev for merge branch dev and feature
