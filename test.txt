@@ -11,3 +11,5 @@ append another Object named {bar: 9999}
 add to stage
 
 add something on branch dev
+
+add something on branch master
