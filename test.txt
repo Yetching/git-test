@@ -10,4 +10,4 @@ append another Object named {bar: 9999}
 
 add to stage
 
-add something on branch dev
+remove the commit on branch master
